@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Teclado Razer",
+      "price": 200.9
+    },
+    {
+      "id": 1,
+      "name": "MacBook Pro",
+      "price": 9099.99
+    },
+    {
+      "id": 1,
+      "name": "Nvidia Gtx",
+      "price": 2099.99
+    }
+  ]
+}
